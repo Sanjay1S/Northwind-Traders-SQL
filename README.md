@@ -1,1 +1,1 @@
-# Northwind-Traders-SQL-
+# Northwind-Traders-SQL
